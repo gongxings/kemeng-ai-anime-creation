@@ -1,7 +1,7 @@
 # 🎬 Kmeng AI Animata (可梦 AI 漫剧版)
 
 > **专为创作者打造的本地优先 (Local-First) AI 视频创作工作台。**
-
+[english](README.md)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-6-purple)
@@ -98,3 +98,9 @@ npm run dev
 ## 📄 许可证
 
 本项目采用 [MIT 许可证](LICENSE) 开源。
+
+## 关注一下
+
+| 公众号 | 交流群 |
+|--------|--------|
+| ![公众号](https://biyebang.com.cn/upload/wechat_Official-Account.png) | ![交流群](https://biyebang.com.cn/upload/wechat_group.jpg) |
