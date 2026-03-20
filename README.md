@@ -1,7 +1,7 @@
 # 🎬 Kmeng AI Animata
 
 > **The Local-First AI Video Production Studio for Creators.**
-![chinese](README_CN.md)
+[中文](README_CN.md)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Vite](https://img.shields.io/badge/Vite-6-purple)
