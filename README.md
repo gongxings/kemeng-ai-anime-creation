@@ -98,3 +98,9 @@ Issues and Pull Requests are welcome!
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## focus
+
+| wechat official account | wechat group |
+|--------|--------|
+| ![wechat official account](https://biyebang.com.cn/upload/wechat_Official-Account.png) | ![wechat group](https://biyebang.com.cn/upload/wechat_group.jpg) |
